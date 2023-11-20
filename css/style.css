@@ -2,6 +2,13 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+  background-color: blueviolet;
+  color: lightgreen;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
 .recipe-img {
   width: 500px;
   height: auto;
