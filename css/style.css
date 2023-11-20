@@ -1,3 +1,7 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .recipe-img {
   width: 500px;
   height: auto;
