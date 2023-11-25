@@ -2,20 +2,25 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
 h1 {
-  background-color: blueviolet;
-  color: lightgreen;
+  color: #EC8F5E;
   text-align: center;
   font-size: 2.5rem;
 }
 
 .recipe-img {
-  width: 500px;
+  width: 600px;
   height: auto;
+  margin: 20px auto;
 }
 
 a {
-  color: rgb(17, 187, 196);
+  color: #9FBB73;
   font-weight: bold;
   font-size: 1.5rem;
 }
